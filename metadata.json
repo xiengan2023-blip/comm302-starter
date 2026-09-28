@@ -1,0 +1,6 @@
+{
+  "name": "TradingView — Markets, Supercharts & Financial Screener",
+  "description": "Financial charting platform, live multi-asset market summaries, interactive candlestick Supercharts with drawing tools and indicators, stock and crypto screener, and community trade setups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
